@@ -14,7 +14,7 @@
 <h3> 👨🏻 Ayush Katiyar | 👨🏻‍💻 Software Engineer | 🌏 India </h3>
 </div>
 
-### :octocat: About me 
+### :octocat: About me ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ayush8010720467)
 
 - 👨 🏻 Pronouns: `he/his`
 - 🎖 Completed 1 tech internships at [Goibibo](https://www.goibibo.com/) 🗺️- 🔭 Currently working on something cool.
