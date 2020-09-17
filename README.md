@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/katiyarayush01/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👨🏻 Ayush Katiyar | 👨🏻‍💻 Software Engineer | 🌏 India </h3>
+<h3> 👨🏻 Ayush Katiyar | 👨🏻‍💻 Software Engineer | ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)🌏 India </h3>
 </div>
 
 ### :octocat: About me 
