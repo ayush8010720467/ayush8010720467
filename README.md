@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayush8010720467/ayush8010720467/master/coding-freak.gif">
+</p>
 <div align="center">
   <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
