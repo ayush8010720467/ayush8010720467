@@ -19,9 +19,9 @@
 ### :octocat: About me ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ayush8010720467)
 
 - 👨 🏻 Pronouns: `he/his`
-- 🎖 Completed 1 tech internships at [Goibibo](https://www.goibibo.com/) 🗺️- 🔭 Currently working on something cool.
+- 🎖 Completed 1 tech internships at [Goibibo](https://www.goibibo.com/), worked as a 💻 Software Engineer at [Clovia](https://www.clovia.com/) 🗺️- 🔭 Currently       working on something cool.
 - 🌱 Learning `Typescript`, `Angular`, `Python`, `Django`.
-- 🔭 I’m currently working as a 💻 Software Engineer at [Clovia](https://www.clovia.com/)
+- 🔭 I’m currently working as a 💻 Software Engineer at [MindTickle](https://www.mindtickle.com/)
 - 👯 Let's collaborate on create cool `websites`.
 - 🤔 Need some help with `technical interview`.
 - 💬 Ask me about `CS`, `internship`, `web dev` [here](https://github.com/ayush8010720467/ayush8010720467/issues).
